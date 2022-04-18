@@ -1,0 +1,4 @@
+{
+  "sqlite": "face_rec.db",
+  "encodings_dir": "face_encodings"
+}
